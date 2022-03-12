@@ -1,0 +1,10 @@
+.vscode/**
+.vscode-test/**
+.gitignore
+vsc-extension-quickstart.md
+
+/themes/*.js
+node_modules
+lib
+
+filetypes.md
